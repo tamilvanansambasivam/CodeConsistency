@@ -1,10 +1,22 @@
-function x(){
-    console.log("hello from callback");
+
+const radius=[1,2,3,4]
+
+function diameterOfCircle(arr){
+    ans=[]
+    for(let i=0;i<arr.length;i++){
+        ans.push(arr[i]*2);
+    }
+    return ans;
 }
 
-function y(y1){
-    y1()
-    console.log("hello from HOF")
+console.log(diameterOfCircle(radius));
+
+function areaOfCircle(arr){
+    ans=[]
+    for(let i=0;i<arr.length;i++){
+        ans.push(Math.PI*arr[i]**2);
+    }
+    return ans;
 }
 
-y(x)
+console.log(areaOfCircle(radius));
