@@ -1,9 +1,9 @@
-# Code, debug, innovate, collaborate, and persist.
+Code, debug, innovate, collaborate, and persist.
 
-# Learn, adapt, teach, share, and never stop exploring.
+Learn, adapt, teach, share, and never stop exploring.
 
-# Practice these principles. Stay focused on your journey.
+Practice these principles. Stay focused on your journey.
 
-# Avoid burnout, stagnation, self-doubt, distractions, and the comfort zone.
+Avoid burnout, stagnation, self-doubt, distractions, and the comfort zone.
 
-# Keep coding. Success is your destination.
+Keep coding. Success is your destination.
